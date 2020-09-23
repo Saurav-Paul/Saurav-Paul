@@ -24,7 +24,7 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Sau
 
 - **Frameworks**: `Django` 
 
-- **Competitive Programming**
+- **Competitive Programming (Codeforces:Expert,Codechef:5-star)**
     
 - **Algorithms** , **Data-structures**
 
