@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [ai-virtual-assitant](https://github.com/Saurav-Paul/AI-virtual-assistant-python).
 - 🌱 I’m doing competitive programming regularly.
 - 👯 I’m looking to collaborate on python projects.
-- 🤔 I’m looking for help with jobs/intern.
 - 📫 How to reach me: Connect with me on **[Facebook](https://www.facebook.com/sauravpaul.sunny)** / **[Linkedin](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**  
 - 💬 Ask me about Algorithms, Data Structure , Python , C++ 
 - 😄 Pronouns: Compititive Programmer | Software Engineer 
