@@ -6,6 +6,7 @@ I'm **[Saurav Paul](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**, a hum
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@SauravPaul&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)
  [![Facebook](https://img.shields.io/static/v1.svg?label=facebook&message=@SauravPaul&logo=facebook&style=flat&color=blue)](https://www.facebook.com/sauravpaul.sunny)
+ ![](https://komarev.com/ghpvc/?username=saurav-paul)
  
  My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am liking to get **addicted to green dots** on [GitHub](https://github.com/Saurav-Paul?tab=repositories).
