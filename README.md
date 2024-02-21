@@ -21,20 +21,18 @@ I am liking to get **addicted to green dots** on [GitHub](https://github.com/Sau
 
 - **Languages**: `Python`, `C++`,`C`, `HTML / CSS / JS`
 
-- **Databases**: `MySQL`, `sqlite3`
+- **Databases**: `Postgres`, `sqlite3`
 
-- **Frameworks**: `Django` 
+- **Frameworks**: `Django` , `NextJS`, `React`
 
 - **Competitive Programming (Codeforces:Expert,Codechef:5-star)**
     
 - **Algorithms** , **Data-structures**
 
-- **Operating System**: `Linux`, `Windows`
+- **Operating System**: `Mac`, `Linux`, `Windows`
     
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [ai-virtual-assitant](https://github.com/Saurav-Paul/AI-virtual-assistant-python).
-- 🌱 I’m doing competitive programming regularly.
 - 👯 I’m looking to collaborate on python projects.
 - 📫 How to reach me: Connect with me on **[Facebook](https://www.facebook.com/sauravpaul.sunny)** / **[Linkedin](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**  
 - 💬 Ask me about Algorithms, Data Structure , Python , C++ 
