@@ -11,6 +11,9 @@ I'm **[Saurav Paul](https://www.linkedin.com/in/saurav-paul-5b4aa4178/)**, a hum
 
 [![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Paul&show_icons=true)](https://github.com/Saurav-Paul/)
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=soumik9876&theme=onedark" />
+
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/Saurav-Paul)! :v:
 
 
